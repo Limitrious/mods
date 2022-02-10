@@ -1,5 +1,6 @@
 # mods
  Requirement mods for 1.12.2 forge server
+# *DO NOT DOWNLOAD SERVER SIDE MODS*
  Download .jar file and put it in ur mods folder (Default: `%appdata%\.minecraft\mods`)
  Our discord: https://discord.gg/zWrzCRgDnY
  Forge version: `1.12.2-14.23.5.2838 `
